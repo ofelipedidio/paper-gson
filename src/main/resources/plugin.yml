@@ -1,0 +1,7 @@
+name: 'PaperGSON'
+description: 'PaperGSON is a GSON wrapper for PaperMC servers'
+version: '${project.version} (GSON ${gsonVersion})'
+
+api-version: '1.18'
+
+main: 'com.felipedidio.papergson.PaperGSON'
